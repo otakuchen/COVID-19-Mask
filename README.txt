@@ -39,6 +39,8 @@
     --------------------------
     Output the simple random assignmet results with differenct enviromental parameters
 
+
+
 # direct output
 '''
     Csv files that are directly produced by simulation.
